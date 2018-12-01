@@ -1,0 +1,9 @@
+{
+  "generator-donejs": {
+    "promptValues": {
+      "authorName": "Ivo Pinheiro",
+      "authorEmail": "ivo.pinheiro@nokia.com",
+      "authorUrl": "https://donejs.com"
+    }
+  }
+}
